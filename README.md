@@ -16,10 +16,10 @@ Parts needed:
 after printing the .stl files put the together with the arduino components with the following wiring diagram.
 
 
-<p>
-
-  
+<p align="center">
+<img title="Wiring" alt="Alt text" src="images/wiring_diagram.png" width="300" height="100" align="center">
 </p>
+
 
 
 
